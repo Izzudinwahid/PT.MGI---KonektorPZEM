@@ -1,0 +1,2 @@
+# PT.MGI---KonektorPZEM
+PCB
